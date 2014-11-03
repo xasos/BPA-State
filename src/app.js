@@ -1,9 +1,3 @@
-/**
- * Welcome to Pebble.js!
- *
- * This is where you write your app.
- */
-
 var UI = require('ui');
 var Vector2 = require('vector2');
 
@@ -13,6 +7,14 @@ var main = new UI.Card({
   subtitle: 'Hello World!',
   body: 'Press any button.'
 });
+
+var ajax = require('ajax');
+ajax({ url: 'http://api.theysaidso.com/qod.json', type: 'json' },
+  function(data) {
+    main.body(data.contents.quote);
+    main.title(data.contents.author);
+  }
+);
 
 main.show();
 
