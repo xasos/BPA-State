@@ -1,7 +1,7 @@
 phPebble
 ========
 
-Product Hunt client for Pebble
+Product Hunt client for Pebble written in Javascript.
 
 **NOTICE**: Not complete, under active development.
 
