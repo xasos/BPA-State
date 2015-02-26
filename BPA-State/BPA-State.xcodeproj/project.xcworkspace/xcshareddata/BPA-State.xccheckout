@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>725CBC4A-227F-4C02-BD21-136DB4A52DEE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BPA-State</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>600AD89308BB303AA72E31F603B63278B0F03067</key>
+		<string>github.com:xasos/BPA-State.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BPA-State/BPA-State.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>600AD89308BB303AA72E31F603B63278B0F03067</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:xasos/BPA-State.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>600AD89308BB303AA72E31F603B63278B0F03067</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>600AD89308BB303AA72E31F603B63278B0F03067</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BPA-State</string>
+		</dict>
+	</array>
+</dict>
+</plist>
